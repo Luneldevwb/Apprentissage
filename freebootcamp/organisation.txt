@@ -1,0 +1,9 @@
+## Organisation du code CSS
+
+-- Follow the team.
+
+-- Use comments to create headers.
+
+-- Sort properties alphabetically ABCSS(pour classer suivant l'ordre alphabetique: on use cmd+p puis > sort lines ascending).
+
+-- Larger projects follow a naming convention methodology. BEM - Block Element Modifier.
