@@ -149,6 +149,10 @@ a {
 	text-decoration: none;
 }
 
+.center a {
+	text-decoration: none;
+}
+
 /* || HEADER */
 
 .header {
